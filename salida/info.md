@@ -30,3 +30,9 @@ el comando para enviar en github es con los siguiente comandos
 git remote add origin https
 git branch -M main
 git push -u origin main
+
+
+ESTO ES EL COMANDO PARA SUBIR al git hub pero la primera vez 
+  git remote add origin https
+>> git branch -M main
+>> git push -u origin main
